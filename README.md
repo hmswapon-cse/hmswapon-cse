@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @hmswapon38
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2> Hi, I'm Hm swapon</h2>
 
-<!---
-hmswapon38/hmswapon38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![💻 Computer Engineer | Ethical Hacker & Cybersecurity Enthusiast | Python, C++, C#, Java, PHP | Web & Software](https://raw.githubusercontent.com/hmswapon-cse/hmswapon-cse/main/og.jpg)
+
+<h2> 🚀 About Me </h2>
+I am a Computer Engineer with a keen interest in Programming, Cybersecurity, and Secure Software Development. I enjoy building efficient, scalable, and secure systems using modern technologies and best coding practices.
+
+I have hands-on experience with:
+- ✔ Programming Languages: Python, C++, C#, Java, PHP (Problem Solving, Backend Logic, OOP)
+- ✔ Web Development: HTML, CSS, SQL, Web Application Development
+- ✔ Cybersecurity: Ethical Hacking, Vulnerability Assessment, Secure Coding Practices
+
+I am always exploring new technologies, improving my skills, and contributing to projects that make systems safer and smarter.
+
+
+<h2> ☕ Connect with me! </h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmswapon/)
+[![Website](https://img.shields.io/badge/Website-%232c7873?style=for-the-badge&logo=google-chrome&logoColor=white)](https://scripthunter.xyz)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hmswapon_cse)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hmswapon.cse)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hmswapon.cse)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hmswapon)
+
+
+
+
+
+
