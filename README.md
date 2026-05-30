@@ -15,7 +15,7 @@ I am always exploring new technologies, improving my skills, and contributing to
 
 <h2> ☕ Connect with me! </h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hmswapon/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-harun-or-rashid-swapon/)
 [![Website](https://img.shields.io/badge/Website-%232c7873?style=for-the-badge&logo=google-chrome&logoColor=white)](https://scripthunter.xyz)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hmswapon_cse)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hmswapon.cse)
